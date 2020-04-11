@@ -14,3 +14,8 @@ The article is represented in an effective vector representation, which is used 
 Euclidean distance similarity measure is used to find top relevant articles.
 
 This method for content-based news recommendation, employs a devised effective article representation.This representation is important when similar articles are computed.It is necessary to process a new article as fast as possible.
+
+
+MongoDB needs a local host and hence this code cannot be run on google colab.
+
+The code can be run on jupyter notebook or spyder.
