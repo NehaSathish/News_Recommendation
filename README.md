@@ -7,7 +7,7 @@ News is scraped dynamically using Google News Api every time a user logs in.
 
 The scraped news is appended to a mongo db database.
 
-Preprocessing is done on evry articles to reduce word space.
+Preprocessing is done on every article to reduce word space.
 
 The article is represented in an effective vector representation, which is used in similarity computation.
 
